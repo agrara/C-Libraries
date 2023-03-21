@@ -11,7 +11,7 @@
  * @params
  * - replacement substring
  * - substring to be replaced
- * - POINTER to the original string
+ * - POINTER to the original string whick will be modified
  * - bool option - false for replacing only the first occurance, true for replace all occurances
  *
  * @return pointer to the modified string, NULL on failure
