@@ -17,6 +17,6 @@
  * @return pointer to the modified string, NULL on failure
  */
 
-char *findAndReplace(const char *, const char *, char **originalString, const bool);
+char *findAndReplace(const char *, const char *, char **, const bool);
 
 #endif
